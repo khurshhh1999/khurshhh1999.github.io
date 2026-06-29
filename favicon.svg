@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="K">
+    <defs>
+        <linearGradient id="k-gradient" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#1ed7ad" />
+            <stop offset="1" stop-color="#4f8cc9" />
+        </linearGradient>
+    </defs>
+    <rect width="64" height="64" rx="16" fill="#171b24" />
+    <rect x="4" y="4" width="56" height="56" rx="13" fill="none" stroke="url(#k-gradient)" stroke-width="3" />
+    <text x="32" y="43" text-anchor="middle"
+        font-family="Source Sans Pro, Helvetica, Arial, sans-serif" font-size="34" font-weight="700"
+        fill="#ffffff">K</text>
+</svg>
